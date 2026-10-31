@@ -1,0 +1,14 @@
+[
+  {
+    "mode": 8,
+    "key": "CPT3000",
+    "plaintext_hex": "48656c6c6f2c204665697374656c210a",
+    "ciphertext_hex": "90e44040db0c2659e4cee28fe4405e3f"
+  },
+  {
+    "mode": 16,
+    "key": "Secret",
+    "plaintext_hex": "48656c6c6f2c204665697374656c210a",
+    "ciphertext_hex": "aafd49d35d42955ffb7aaac6fed31c49"
+  }
+]
